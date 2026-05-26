@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://mcluck-casino-online.com/
+Sitemap: https://mcluck-casino-online.com/sitemap.xml
